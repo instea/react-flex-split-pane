@@ -123,8 +123,13 @@ export default class SplitPane extends Component {
 
 }
 
+const fn = () => 0;
+
 SplitPane.defaultProps = {
   type: PaneType.vertical,
+  onChange: fn,
+  onResizeStart: fn,
+  onResizeEnd: fn,
 };
 
 SplitPane.propTypes = {
