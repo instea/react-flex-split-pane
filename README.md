@@ -70,8 +70,8 @@ Split pane works only as controlled component. Here are listed component's props
 
 ## Examples
 
-* [Vertical example](examples/src/example/VerticalExample.js)
-* [Horizontal example](examples/src/example/HorizontalExample.js)
+* [Vertical example](examples/src/examples/VerticalExample.js)
+* [Horizontal example](examples/src/examples/HorizontalExample.js)
 
 ## Limitations
 
