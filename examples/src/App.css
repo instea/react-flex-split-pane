@@ -20,10 +20,24 @@
   flex-direction: column;
   align-items: center;
   user-select: none;
+  margin-bottom: 100px;
 }
 
 .App-section {
   font-size: large;
+}
+
+a {
+  color: silver;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: silver;
 }
 
 @keyframes App-logo-spin {

@@ -10,7 +10,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to react-flex-split-pane</h2>
+          <h2>Welcome to <a href="https://github.com/instea/react-flex-split-pane">react-flex-split-pane</a></h2>
         </div>
         <div className="App-intro">
           <div className="App-section">
